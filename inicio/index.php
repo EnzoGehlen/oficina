@@ -82,7 +82,7 @@
 
                         <p class='depoimento'>
                             <i style='color: coral;' class="fa fa-envelope fa-1x "></i>
-                                <a href="mailto:contato@queromaissalgados.com.br">contato@eusoudemais.com.br</a>  
+                                <a href="mailto:contato@queromaissalgados.com.br">contato@contato.comtato.brontato</a>  
                         </p>
                     </div>
                     
